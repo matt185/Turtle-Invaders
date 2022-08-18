@@ -2,11 +2,11 @@
 
 Remake of the famouse game Space Invaders.
  
- 
 <p align="center">
 <img src="images/turtle_invaders.png" width="50%" height="50%"  />
  </p>
-<br/> 
+
+
 <h3> Project setup </h3>
  
 Create the virtual environment and install the requirements on mac:
