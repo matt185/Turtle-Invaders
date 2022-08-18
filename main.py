@@ -10,7 +10,7 @@ from component.score import Scoreboard
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
-screen.title("Space Invaders")
+screen.title("Turtle Invaders")
 screen.tracer(0)
 
 # Create the player
