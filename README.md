@@ -1,7 +1,8 @@
 # Turtle Invaders
 
 Remake of the famouse game Space Invaders.
-<br/>
+ 
+ 
 <p align="center">
 <img src="images/turtle_invaders.png" width="50%" height="50%"  />
  </p>
