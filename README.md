@@ -18,6 +18,7 @@ python install -r requirements.txt
 <br/>
 After that run the following script for run the code:
 <br/>
+
 ```
 python main.py
 ```
