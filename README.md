@@ -2,7 +2,7 @@
 
 Remake of the famouse game Space Invaders build using Pyhton 3 and the Turtle module.
 
-![image](images/turtle_invaders.png|width=100,height=100)
+![image](images/turtle_invaders.png=250x250)
 
 ## Project setup
 
