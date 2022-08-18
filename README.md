@@ -1,11 +1,14 @@
 # Turtle Invaders
 
-Remake of the famouse game Space Invaders build using Pyhton 3 and the Turtle module.
+Remake of the famouse game Space Invaders.
+
+<hr>
 
 <p align="center">
 <img src="images/turtle_invaders.png" width="50%" height="50%"  />
  </p>
 
+<hr/>
 ## Project setup
 
 Create the virtual environment and install the requirements on mac:
