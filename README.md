@@ -23,4 +23,5 @@ python main.py
 and enjoy.
 <br/>
 <h3> Technologies used </h3>
+<br/>
 Python, Turtle
