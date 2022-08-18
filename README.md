@@ -21,3 +21,7 @@ After that run the following script for run the code:
 python main.py
 ```
 and enjoy.
+<br/>
+<h3> Technologies used </h3>
+<br/>
+Python, Turtle
